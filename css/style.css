@@ -1,12 +1,9 @@
-<body>(
-  
-		)
-        
-        
-        
-        
-<body>
-     <h1>Olá Mundo</h1>
-    <p>como treinar seu dragãGo</p>
-     
-</body>
+body{
+    background-color: blue;
+}
+
+h1{
+
+    color: black;
+    text-align: center;
+}

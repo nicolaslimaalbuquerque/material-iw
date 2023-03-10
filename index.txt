@@ -1,3 +1,0 @@
-<html>
-Alô mundo!!!
-</html>
